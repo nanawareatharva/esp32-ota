@@ -1,11 +1,11 @@
 {
   "hardware": "ESP32-S3-Touch-LCD-7-800x480",
-  "version": "1.0.0",
-  "build": 100,
+  "version": "1.0.1",
+  "build": 101,
   "url": "https://github.com/nanawareatharva/esp32-ota/releases/download/v1.0.1/RS485_Sniffer.bin",
-  "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
-  "size": 0,
+  "sha256": "e01cec87402b876e0c5e8996c6ee1fe547c7f8455da8b4681a0976a0c88038f6",
+  "size": 1499712,
   "mandatory": false,
   "release_date": "2026-10-31",
-  "notes": "Base firmware v1.0.0 initialized."
+  "notes": "Firmware release v1.0.1 for ESP32-S3-Touch-LCD-7-800x480"
 }
