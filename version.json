@@ -1,11 +1,11 @@
 {
   "hardware": "ESP32-S3-Touch-LCD-7-800x480",
-  "version": "1.0.1",
-  "build": 101,
-  "url": "https://github.com/nanawareatharva/esp32-ota/releases/download/v1.0.1/RS485_Sniffer.ino.esp32s3.bin",
-  "sha256": "e01cec87402b876e0c5e8996c6ee1fe547c7f8455da8b4681a0976a0c88038f6",
-  "size": 1499712,
+  "version": "1.0.2",
+  "build": 102,
+  "url": "https://github.com/nanawareatharva/esp32-ota/releases/download/v1.0.2/RS485_Sniffer.ino.esp32s3.bin",
+  "sha256": "976c25a0fab4a5036a54dfac495c563d06af260d363238fddd4eeaacc7cf2235",
+  "size": 1383200,
   "mandatory": false,
   "release_date": "2026-10-31",
-  "notes": "Firmware release v1.0.1 for ESP32-S3-Touch-LCD-7-800x480"
+  "notes": "Firmware v1.0.2: On-screen LVGL progress modal, touch locking, and Check for Updates button"
 }
