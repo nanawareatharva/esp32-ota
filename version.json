@@ -1,6 +1,6 @@
 {
   "hardware": "ESP32-S3-Touch-LCD-7-800x480",
-  "version": "1.0.8",
+  "version": "1.0.7",
   "build": 107,
   "url": "https://raw.githubusercontent.com/nanawareatharva/esp32-ota/main/RS485_Sniffer.ino.esp32s3.bin",
   "sha256": "38d236b9b3da5aa632ce34b30b1984e3facd474e8d180d49f00600217cb4811c",
