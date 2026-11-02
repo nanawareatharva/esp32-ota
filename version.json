@@ -1,11 +1,11 @@
 {
   "hardware": "ESP32-S3-Touch-LCD-7-800x480",
-  "version": "1.0.3",
-  "build": 103,
+  "version": "1.0.4",
+  "build": 104,
   "url": "https://raw.githubusercontent.com/nanawareatharva/esp32-ota/main/RS485_Sniffer.ino.esp32s3.bin",
-  "sha256": "33e88e99e4b57d8397e6ecbdb284f36d4b064686d7dc542df3523ec6d6edefef",
-  "size": 1383200,
+  "sha256": "e54dcc23e703f9c554feeb5b6770008df0a30e26faab7fafec4f395bd4545624",
+  "size": 1384496,
   "mandatory": false,
-  "release_date": "2026-10-31",
-  "notes": "Firmware v1.0.3: Fixed OTA manifest TLS buffer allocation (setBufferSizes), production GitHub binary URL"
+  "release_date": "2026-11-02",
+  "notes": "Firmware v1.0.4: Full wireless OTA field verification test"
 }
