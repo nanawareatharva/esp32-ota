@@ -1,11 +1,11 @@
 {
   "hardware": "ESP32-S3-Touch-LCD-7-800x480",
-  "version": "1.0.9",
-  "build": 109,
+  "version": "1.0.10",
+  "build": 110,
   "url": "https://raw.githubusercontent.com/nanawareatharva/esp32-ota/main/RS485_Sniffer.ino.esp32s3.bin",
-  "sha256": "290a4424801df7bd751fccc89db824724c2057d724e2a9e66d9e1fe00d3d8ffb",
+  "sha256": "1e253e510cdf080d661010b3d85ad88c1ea76723bd2e282838e4d41d37409813",
   "size": 1385840,
   "mandatory": false,
   "release_date": "2026-11-05",
-  "notes": "Firmware v1.0.9: Permanent fix for screen flickering & scanline tearing (ST7262 porches + AP3012 power sequencing)"
+  "notes": "Firmware v1.0.10: Remote OTA verification test release with @latest zero-cache delivery"
 }
