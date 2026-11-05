@@ -3,9 +3,9 @@
   "version": "1.0.8",
   "build": 108,
   "url": "https://raw.githubusercontent.com/nanawareatharva/esp32-ota/main/RS485_Sniffer.ino.esp32s3.bin",
-  "sha256": "4e09d362d9c2ec226b5848e5c9d1601ff1a4feaeb9192b837a193bd771c242ca",
-  "size": 1384528,
+  "sha256": "cd456344c91a037dde2e40b4651f5d47df18bb6fb6450f769de53c6eb4477134",
+  "size": 1386400,
   "mandatory": false,
   "release_date": "2026-11-05",
-  "notes": "Firmware v1.0.8: Remote wireless OTA verification test release"
+  "notes": "Firmware v1.0.8: Full Cyber-Navy UI with Reset Confirmation popup and CDN OTA support"
 }
