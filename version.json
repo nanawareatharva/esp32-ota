@@ -1,11 +1,11 @@
 {
   "hardware": "ESP32-S3-Touch-LCD-7-800x480",
-  "version": "1.0.11",
-  "build": 111,
+  "version": "1.0.12",
+  "build": 112,
   "url": "https://raw.githubusercontent.com/nanawareatharva/esp32-ota/main/RS485_Sniffer.ino.esp32s3.bin",
-  "sha256": "74f5b87a65c919e97889d44209f7f1da3e1ac66eb5eb1a3be7d5699d478157a5",
-  "size": 1385680,
+  "sha256": "d3ca1f91c09887642fefbcc2adedaafcba9833369219d47346d3130abfacf666",
+  "size": 1385728,
   "mandatory": false,
   "release_date": "2026-11-05",
-  "notes": "Firmware v1.0.11: Pixel-perfect UI refinement for 1ACCORD / COOL CROP Room Monitor"
+  "notes": "Firmware v1.0.12: Refined Cyber-Navy UI with dynamic header version badge spacing"
 }
