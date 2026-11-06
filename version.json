@@ -1,11 +1,11 @@
 {
   "hardware": "ESP32-S3-Touch-LCD-7-800x480",
-  "version": "1.0.13",
-  "build": 113,
+  "version": "1.0.14",
+  "build": 114,
   "url": "https://raw.githubusercontent.com/nanawareatharva/esp32-ota/main/RS485_Sniffer.ino.esp32s3.bin",
-  "sha256": "bcc5693ecfe4a8564a618f8067a732f051b807b9ee8e10d7c62d545cb60e14e2",
-  "size": 1408064,
+  "sha256": "846cb682a3034db062263e1e7c0c2513e4cd78c36c7a5b7228eaace102e042b0",
+  "size": 1407328,
   "mandatory": false,
   "release_date": "2026-11-06",
-  "notes": "Firmware v1.0.13: Restored full typography using built-in Montserrat uncompressed fonts, fixing invisible text on display."
+  "notes": "Firmware v1.0.14: Montserrat Bold custom fonts with uncompressed bitmaps, plus pixel-perfect reference Thermometer and Droplet icons."
 }
