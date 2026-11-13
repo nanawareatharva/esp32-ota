@@ -1,11 +1,11 @@
 {
   "hardware": "ESP32-S3-Touch-LCD-7-800x480",
-  "version": "1.0.15",
-  "build": 115,
+  "version": "1.0.16",
+  "build": 116,
   "url": "https://raw.githubusercontent.com/nanawareatharva/esp32-ota/main/RS485_Sniffer.ino.esp32s3.bin",
-  "sha256": "6edae18d441a80d003d7040e70e8c39bec6648ed01e566464ec3d2bb7f9b6d39",
+  "sha256": "e0dea670e187039ad6b7108f3b6778486f404c17f2dd438d7afc705e9318c48c",
   "size": 1407552,
   "mandatory": false,
   "release_date": "2026-11-13",
-  "notes": "Firmware v1.0.15: Centered Thermometer and Droplet icons, plus sleek Cool Crop frost crystal emblem in cyan."
+  "notes": "Firmware v1.0.16: OTA verification release."
 }
