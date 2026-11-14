@@ -1,11 +1,11 @@
 {
   "hardware": "ESP32-S3-Touch-LCD-7-800x480",
-  "version": "1.0.18",
-  "build": 118,
+  "version": "1.0.19",
+  "build": 119,
   "url": "https://raw.githubusercontent.com/nanawareatharva/esp32-ota/main/RS485_Sniffer.ino.esp32s3.bin",
-  "sha256": "f2a8310acdcf5c13ea247b512c94b93307270759cce5154c6f6ed2f9fd4dd3f8",
-  "size": 1407456,
+  "sha256": "fc3559f55e706ca679f66a76c101edf49d235bd2c4c6c73e9e5f30f60ce16b77",
+  "size": 1408320,
   "mandatory": false,
-  "release_date": "2026-11-13",
-  "notes": "Firmware v1.0.18: Accurate release date and updated version format (Last update: 13-11-2026 (v1.0.18))."
+  "release_date": "2026-11-14",
+  "notes": "Firmware v1.0.19: Display Deep Sleep mode (1-min timeout, touch wake, auto-wake on door open)."
 }
