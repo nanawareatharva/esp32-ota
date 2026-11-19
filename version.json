@@ -1,11 +1,11 @@
 {
   "hardware": "ESP32-S3-Touch-LCD-7-800x480",
-  "version": "1.0.23",
-  "build": 123,
+  "version": "1.0.24",
+  "build": 124,
   "url": "https://raw.githubusercontent.com/nanawareatharva/esp32-ota/main/RS485_Sniffer.ino.esp32s3.bin",
-  "sha256": "d75bf1ccd2a9c4de30b92f4f0ce45c360a48e8f7d486451724b91b7361a70886",
-  "size": 1408656,
+  "sha256": "74da4fd8e1688a5b5d5c32f6aefa22dbc7ee7ce761b881365052cf79b03b116a",
+  "size": 1409552,
   "mandatory": false,
   "release_date": "2026-11-19",
-  "notes": "Firmware v1.0.23: RS485 real-time sensor processing fix (Core 1 parser isolation, 64-chunk queue, 30s stale window)."
+  "notes": "Firmware v1.0.24: Multi-tier adaptive RS485 register fallback, auto-scaling, orphan reply recovery, live bus stats."
 }
