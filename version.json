@@ -1,11 +1,11 @@
 {
   "hardware": "ESP32-S3-Touch-LCD-7-800x480",
-  "version": "1.0.26",
-  "build": 126,
+  "version": "1.0.27",
+  "build": 127,
   "url": "https://raw.githubusercontent.com/nanawareatharva/esp32-ota/main/RS485_Sniffer.ino.esp32s3.bin",
-  "sha256": "76c63cacd71d108189737d377c64acfea63c206bb8cf4211d40a112bbd35ade0",
-  "size": 1409184,
+  "sha256": "aca683a15fb33752919cb1179aa9d68c1b7a8f59772073c88b0c7726e3d9a167",
+  "size": 1416384,
   "mandatory": false,
-  "release_date": "2026-11-21",
-  "notes": "Firmware v1.0.26: Completely silenced buzzer under all conditions, RS485 UART pins (RX=15, TX=16), Core 0 parser task, 5-minute rapid OTA cycle."
+  "release_date": "2026-11-25",
+  "notes": "Firmware v1.0.27: Periodic MQTT telemetry over Wi-Fi (1-min schedule to 52.21.241.47:1883), live sensor & door payload on Test/Rs485_Data, buzzer silenced."
 }
