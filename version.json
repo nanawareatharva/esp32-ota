@@ -1,11 +1,11 @@
 {
   "hardware": "ESP32-S3-Touch-LCD-7-800x480",
-  "version": "1.0.27",
-  "build": 127,
+  "version": "1.0.28",
+  "build": 128,
   "url": "https://raw.githubusercontent.com/nanawareatharva/esp32-ota/main/RS485_Sniffer.ino.esp32s3.bin",
-  "sha256": "aca683a15fb33752919cb1179aa9d68c1b7a8f59772073c88b0c7726e3d9a167",
-  "size": 1416384,
+  "sha256": "983A79E104390C3F31D27031C84C17068A30E99F2397EBED4857DA9A164CEBE8",
+  "size": 1368480,
   "mandatory": false,
-  "release_date": "2026-11-25",
-  "notes": "Firmware v1.0.27: Periodic MQTT telemetry over Wi-Fi (1-min schedule to 52.21.241.47:1883), live sensor & door payload on Test/Rs485_Data, buzzer silenced."
+  "release_date": "2026-11-26",
+  "notes": "Firmware v1.0.28: Reversed door logic (HIGH=Closed, LOW=Open), 2-min door alarm with silence button, buzzer enabled on PCF8574, 5-min periodic OTA check, real-time MQTT publish on screen display."
 }
